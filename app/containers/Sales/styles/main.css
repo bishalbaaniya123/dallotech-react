@@ -1,0 +1,105 @@
+.select-customer {
+    width: 80%;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+.select-customer .ant-select-search__field__wrap input {
+    /*text-align: center;*/
+}
+
+.select-customer .ant-select-selection-selected-value {
+    float: left;
+    /*margin-left: 44%;*/
+}
+
+
+.select-customer .ant-select-selection {
+    font-size: 25px;
+
+    height: 50px
+}
+
+.select-customer .ant-select-selection__placeholder {
+    /*text-align: center;*/
+    margin-top: -2px;
+}
+
+.select-customer .ant-select-search {
+    margin-top: 5px;
+}
+
+
+.select-customer .ant-select-selection-selected-value {
+    margin-top: 8px;
+}
+
+.single-form-trade-lanes {
+    max-width: 85%;
+}
+
+
+
+/*
+.select-customer .ant-select-selection__placeholder {
+    text-align: center;
+    margin-top: -5px;
+}
+
+.select-customer .ant-select-search__field__wrap input {
+    text-align: center;
+}
+
+.select-customer .ant-select-selection-selected-value {
+    float: unset;
+    margin-top: 6px;
+}
+
+
+.select-customer .ant-select-selection {
+    font-size: 25px;
+
+    height: 50px
+}
+
+.select-customer .ant-select-selection__rendered {
+    margin-top: 8px;
+}
+
+.select-customer .ant-select-search {
+    margin-top: -45px;
+}
+*/
+
+
+#adornment-amount::-webkit-inner-spin-button,
+#adornment-amount::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.minimal-radio-group {
+    margin-top: -10px;
+}
+
+.minimal-radio-group label span {
+    padding: 5px;
+}
+.minimal-radio-group svg{
+    width: 15px;
+}
+.minimal-radio-group label {
+    font-size: 10px;
+    margin-right: 10px;
+}
+.only-bottom-border {
+    border: none !important;
+    border-bottom: 1px solid !important;
+    border-bottom-left-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+}
+
+.class-x {
+    margin-top: 25px !important;
+    padding-left: 15px;
+}

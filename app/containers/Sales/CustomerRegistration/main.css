@@ -1,0 +1,43 @@
+.main-grid-form {
+    border: 1px solid #eee;
+    margin: 10px 2px;
+    max-width: 100%;
+    padding: 11px;
+    margin-top: 40px;
+}
+
+.main-grid-form h1 {
+    color: #424242;
+    font-size: 15px;
+}
+
+.normal-field {
+    max-width: 60%;
+    margin-left: 10px !important;
+}
+
+.revenue-main {
+    max-width: 47%;
+}
+
+.margin-left-20 {
+    margin-left: 20px !important;
+}
+
+.no-up-down-arrow::-webkit-inner-spin-button,
+::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.background-label {
+    z-index: 0 !important;
+}
+
+.minimal-width {
+    width: 72% !important;
+}
+
+.select-add-customer {
+    margin: 0 !important;
+}
